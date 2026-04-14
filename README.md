@@ -10,7 +10,6 @@
 - ⚙️ Strong in **backend architecture, API design, and database optimization**  
 - 🎯 Built **10+ REST APIs** for seamless backend-to-client communication  
 - 🚀 Passionate about writing **clean, scalable, and maintainable code**  
-- 🌱 Currently learning **cloud technologies and advanced system design**
 
 ---
 
