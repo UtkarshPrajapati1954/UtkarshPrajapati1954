@@ -62,17 +62,6 @@
 
 - Developed a full-stack real estate platform using **Core PHP, MySQL, JavaScript, HTML5, CSS3, and Bootstrap**
 - Implemented **property listings, property details, search/filtering, dynamic content management, and responsive UI**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshPrajapati1954&show_icons=true&theme=dark" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshPrajapati1954&theme=dark" />
-</p>
-
 ---
 
 ## 📫 Connect with Me
