@@ -20,39 +20,6 @@
   <img src="https://skillicons.dev/icons?i=php,dotnet,cs,react,html,css,js,bootstrap,mysql,git,github,vscode,visualstudio,postman" />
 </p>
 
-### Backend
-- Core PHP 8
-- ASP.NET Core
-- C#
-- RESTful APIs
-- PDO
-- AJAX
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Bootstrap 5
-
-### Database
-- MySQL
-- MariaDB
-- SQL Server
-- SQL Queries
-- Database Design
-
-### Tools
-- Git
-- GitHub
-- XAMPP
-- Composer
-- VS Code
-- Visual Studio
-- Postman
-
----
-
 ## 💼 Professional Experience
 
 ### Full Stack Developer
